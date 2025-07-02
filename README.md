@@ -1,2 +1,1 @@
-# Wastage-Tracker
-A personal project to track and visualize daily wastage using Java, Google Forms, Sheets, and Looker Studio.
+![Googleform1](https://github.com/user-attachments/assets/de6b7f36-a8a6-4434-8964-6754ff2dce47)# Wastage-Tracker
